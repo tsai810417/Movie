@@ -9,10 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="Controllers\HelloWorldController.cs" />
-    <Compile Remove="Controllers\HomeController.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Controllers\" />
   </ItemGroup>
 </Project>
